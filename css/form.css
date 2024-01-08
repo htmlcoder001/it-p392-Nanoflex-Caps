@@ -1,0 +1,55 @@
+img {
+    width: 100%;
+}
+.content p{
+    margin-top: 10px;
+    display: block;
+}
+
+.content h3{
+    font-weight: bold;
+}
+
+.content blockquote {
+    font-size: 20px;
+}
+#email-form {
+    display: block;
+    background: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #19264a;
+    color: #19264a;
+}
+#email-form .price {
+    font-weight: bold;
+    font-size: 50px;
+}
+#email-form input,button,select {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#email-form input,select{
+    border-radius: 10px;
+    border: 1px solid #19264a;
+    padding: 10px;
+}
+#email-form label{
+    margin: 10px 0;
+    font-size: 20px;
+}
+#email-form button,select {
+    border-radius: 10px;
+    border: 1px solid #19264a;
+    padding: 10px;
+    color: #fff;
+    font-weight: bold;
+    background: #19264a;
+    text-align: center;
+}
+
+#email-form select{
+    margin: 20px 0 0;
+
+}
